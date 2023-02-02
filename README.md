@@ -1,13 +1,4 @@
 # The Ins & Outs of Systems Diagrams
-1. Core Message
-    - A collaboratively built Systems Diagram is the best way to get a Team to engage with Documentation.
-2. Determine what is unintuitive about the core message
-    - A System's Diagram Value is based more on the Facilitator's ability to coordinate the group's understanding of the problem and solution than a Designer's ability to create shapes a certain way on the page. 
-3. Use unintuituve concept to break audience's Guessing Machines
-    - Guessing Machine: how do I connect the dots in a way that makes sense to everyone
-    - break it: the Systems Diagram Facilitator must resist filling out the diagram themselves
-4. Help audience rebuild Guessing Machines with new schema
-    - Facilitators must focus on helping the subject matter experts represent information flows in plain language.
-    - Oftentimes, the only shapes a good Systems Diagram needs are Rectangles and Arrows.
-    - Spending time at the beginning determining something as simple as where the Systems Diagram lives can have as big an impact as spending hours figuring out the details of a specific workflow.
+You've seen all the pieces. You've talked with all the people. You have *copious* notes. You even have a great idea for how to structure a wiki that would help your Team capture critical tacit information--ultimately saving everyone time and energy while improving the quality of your product and process. It seems like such a win! But...the System is so big--there are too many details for one person to put them all in the wiki. And even if one person could--what if no one uses it. Somehow, the whole Team is going to have to get engaged with the documentation.
 
+Detachment from Documentation is common for Teams working on technical projects, but there is a tool that consistently increases the likelihood of team members being actively engaged with the Documentation Process--that tool is the **Systems Diagram**. Readers of this repo will see examples of how a Collaboratively Built Systems Diagram encourages a Team to be more involved with documenting a system. It covers how to facilitate a Collaborative Design Session such that everyone not only has a deeper understanding but also feels more compelled to keep information about the system up to date. There will be a showcase of good and *"less helpful"* Systems Diagrams along with some key takeaways about how to connect the Systems Diagram to other Documentation, Workflows, and more! Keep reading to amplify your Diagramming Skills or simply to enjoy the captivating information held within a Systems Diagram.
